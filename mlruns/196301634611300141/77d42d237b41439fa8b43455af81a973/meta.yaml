@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/princ/MLOPS/Experiment-traking-using-MLFlow/mlruns/196301634611300141/77d42d237b41439fa8b43455af81a973/artifacts
+end_time: 1761066861800
+entry_point_name: ''
+experiment_id: '196301634611300141'
+lifecycle_stage: active
+run_id: 77d42d237b41439fa8b43455af81a973
+run_name: masked-snipe-377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761066861742
+status: 3
+tags: []
+user_id: princ

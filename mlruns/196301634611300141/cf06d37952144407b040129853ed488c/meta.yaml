@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/princ/MLOPS/Experiment-traking-using-MLFlow/mlruns/196301634611300141/cf06d37952144407b040129853ed488c/artifacts
+end_time: 1761066861650
+entry_point_name: ''
+experiment_id: '196301634611300141'
+lifecycle_stage: active
+run_id: cf06d37952144407b040129853ed488c
+run_name: skittish-hound-877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761066861596
+status: 3
+tags: []
+user_id: princ

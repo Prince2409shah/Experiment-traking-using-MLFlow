@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/princ/MLOPS/Experiment-traking-using-MLFlow/mlruns/196301634611300141/models/m-f0bb2e2e50ef46b3a3402ecc3d67f1a9/artifacts
+creation_timestamp: 1761066290989
+experiment_id: '196301634611300141'
+last_updated_timestamp: 1761066312292
+model_id: m-f0bb2e2e50ef46b3a3402ecc3d67f1a9
+model_type: null
+name: best-rf-model
+source_run_id: 13e6856a213f42eb998ae8f0209429de
+status: 2
+status_message: null

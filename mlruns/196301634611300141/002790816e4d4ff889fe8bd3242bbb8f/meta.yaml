@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/princ/MLOPS/Experiment-traking-using-MLFlow/mlruns/196301634611300141/002790816e4d4ff889fe8bd3242bbb8f/artifacts
+end_time: 1761066861354
+entry_point_name: ''
+experiment_id: '196301634611300141'
+lifecycle_stage: active
+run_id: 002790816e4d4ff889fe8bd3242bbb8f
+run_name: thundering-lark-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761066861297
+status: 3
+tags: []
+user_id: princ

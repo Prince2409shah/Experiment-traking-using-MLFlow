@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/princ/MLOPS/Experiment-traking-using-MLFlow/mlruns/196301634611300141/68e8ef946a044f2fa60a6e8bebdd2fc6/artifacts
+end_time: 1761066754541
+entry_point_name: ''
+experiment_id: '196301634611300141'
+lifecycle_stage: active
+run_id: 68e8ef946a044f2fa60a6e8bebdd2fc6
+run_name: dazzling-sponge-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761066735641
+status: 3
+tags: []
+user_id: princ

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/princ/MLOPS/Experiment-traking-using-MLFlow/mlruns/196301634611300141/2797c5801c4b4578b796bf9d0e3d12e9/artifacts
+end_time: 1761066861429
+entry_point_name: ''
+experiment_id: '196301634611300141'
+lifecycle_stage: active
+run_id: 2797c5801c4b4578b796bf9d0e3d12e9
+run_name: bald-donkey-675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761066861371
+status: 3
+tags: []
+user_id: princ

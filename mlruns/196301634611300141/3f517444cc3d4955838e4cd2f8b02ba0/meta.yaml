@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/princ/MLOPS/Experiment-traking-using-MLFlow/mlruns/196301634611300141/3f517444cc3d4955838e4cd2f8b02ba0/artifacts
+end_time: 1761066861584
+entry_point_name: ''
+experiment_id: '196301634611300141'
+lifecycle_stage: active
+run_id: 3f517444cc3d4955838e4cd2f8b02ba0
+run_name: upbeat-shrew-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761066861524
+status: 3
+tags: []
+user_id: princ

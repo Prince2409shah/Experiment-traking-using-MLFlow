@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/princ/MLOPS/Experiment-traking-using-MLFlow/mlruns/196301634611300141/6ffbd35479b04ae08d6199b5f2c7460c/artifacts
+end_time: 1761066861277
+entry_point_name: ''
+experiment_id: '196301634611300141'
+lifecycle_stage: active
+run_id: 6ffbd35479b04ae08d6199b5f2c7460c
+run_name: awesome-flea-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761066861198
+status: 3
+tags: []
+user_id: princ

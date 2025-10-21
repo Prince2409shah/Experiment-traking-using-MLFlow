@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/princ/MLOPS/Experiment-traking-using-MLFlow/mlruns/196301634611300141/models/m-cc6ce1c73dca40e9b6e4911c177419de/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.0
+model_id: m-cc6ce1c73dca40e9b6e4911c177419de
+model_size_bytes: 317843
+model_uuid: m-cc6ce1c73dca40e9b6e4911c177419de
+prompts: null
+run_id: 68e8ef946a044f2fa60a6e8bebdd2fc6
+utc_time_created: '2025-10-21 17:12:25.051095'
